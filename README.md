@@ -1,2 +1,2 @@
-# v-test-vue
-springboot整合vue最基本配置
+# springboot整合vue
+前端代码，基本整合，适合新手
