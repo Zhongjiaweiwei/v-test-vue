@@ -1,6 +1,6 @@
 # vuedemo
 
-> 第一个vue项目工程
+> springboot整合vue，基本配置，适合新手
 
 ## Build Setup
 
